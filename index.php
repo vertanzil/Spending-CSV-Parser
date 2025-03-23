@@ -122,7 +122,6 @@ foreach ($csvFiles as $filePath) {
     foreach ($entries as $entry) {
         $category = $entry['category'];
         $amountFloat = abs((float)$entry['amount']);
-.
         if ($category === 'NOT_INCLUDED') {
             continue;
         }
