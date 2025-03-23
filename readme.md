@@ -64,11 +64,4 @@ The main functionalities of the project include:
   The script logs an error if the CSV file is not found or cannot be opened. Modify error handling as needed for your environment.
 
 ## Example
-
-an example of how this data would be presentedw would be in the attached example.csv file.
-
-The script would:
-- Categorize "ASDA Supermarket" as "Shopping".
-- Categorize "GREGGS Bakery" as "Fast Food".
-- Categorize "TOPUP Mobile" as "Phone".
-- Wouldnt Categorize anything flagged as "NOT_INCLUDED" or show this in the figures
+An example of how this data would be presentedw would be in the attached example.csv file.
